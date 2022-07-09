@@ -30,7 +30,7 @@ If your function uses security credentials, you can configure the credentials by
 + `AWS_ACCESS_KEY_ID`
 + `AWS_SECRET_ACCESS_KEY`
 + `AWS_SESSION_TOKEN`
-+ `AWS_REGION`
++ `AWS_DEFAULT_REGION`
 
 To set the function timeout, configure `AWS_LAMBDA_FUNCTION_TIMEOUT`\. Enter the maximum number of seconds that you want to allow the function to run\.
 
